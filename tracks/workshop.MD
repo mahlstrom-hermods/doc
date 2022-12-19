@@ -36,21 +36,34 @@
       * Diskutera (resterande)
 
 
-* ### Nått mer
-    * Med mer innehåll
+* ### Användning av frameworks(frontend & backend)
+  Dela upp i frontend/backend-grupper
+    * Vilket framework skulle vi kunna använda?
+      * Vad kan jag/vi
+      * Vad skulle vara kul att titta på
+      * Vilka frameworks är stabila
+    * Kunskapsöverföring eller kurs?
+      * Har jag kunskapen och skulle jag kunna lära ut den
+      * 
+
+* ### Dokumentation
+    * Vi behöver olika dokument för olika delar.
+    * Ta i beaktning att vi kommer inte hitta den perfekta direkt, det kommer.
+    * Vi startar med en per område, ge den tid, testa, om du inte är nöjd, ta fram ett alternativ och presentera på retro.
+* ### git på Github
+  * Vi behöver kolla över alla branches
+  * Pullrequests
+  * 
 
 ### Hotell & Konferens
-
 * Finns det hotell som Hermods föredrar?
 * Har Hermods tillgång till lokaler i Malmö?
 * Bjuder vi på frukost/lunch/middag?
-*
 
 ### Rider
-
+* Robin Fjell
 * Projektor
 * Whiteboard
 * Post-it (riktiga)
 * Hermodspennor
 * Anteckningsblock
-* 
